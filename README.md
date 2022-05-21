@@ -1,0 +1,5 @@
+- 👋 olá me chamo murilo
+- 👀 Estou começando a aprender como funciona o git e o github
+- 🌱 Estou começando a aprender Js e Python
+- 💞️ Estou cursando Sistema da Informação
+- 📫 murilogccontato@gmail.com
