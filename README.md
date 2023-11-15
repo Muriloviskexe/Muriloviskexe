@@ -1,8 +1,5 @@
 <h1 align="center">Olá, Tudo bem?<h1></h1>
-<h2 align="center">Sou o Murilo</h2>
-  
 ## Sobre Mim
-
 Sou uma pessoa apaixonada pela busca constante de excelência, orientada pelo foco e dedicação em tudo o que faço. Acredito que o foco é a chave para o sucesso em qualquer empreendimento, e tenho a capacidade de mergulhar profundamente em projetos e tarefas, mantendo-me comprometido com os objetivos estabelecidos. Minha dedicação é evidente em minha ética de trabalho persistente, que me permite superar desafios e entregar resultados consistentes.
 Minha jornada profissional e pessoal tem sido moldada por esses princípios, e tambpem sou um grande entusiasta de esportes e tenho um coração caloroso para gatos, que são fonte constante de inspiração e conforto em minha vida.
 
